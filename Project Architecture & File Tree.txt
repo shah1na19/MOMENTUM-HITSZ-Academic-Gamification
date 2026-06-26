@@ -1,0 +1,30 @@
+momentum/
+├── app/
+│   ├── layout.tsx                 # Root layout with providers & fonts
+│   ├── page.tsx                   # Landing Page
+│   ├── dashboard/
+│   │   └── page.tsx               # Main Student Dashboard
+│   ├── quiz/
+│   │   └── page.tsx               # Gamified Quiz Interface
+│   ├── leaderboards/
+│   │   └── page.tsx               # Global & International Rankings
+│   ├── moments/
+│   │   └── page.tsx               # Campus Moments Social Feed
+│   ├── coach/
+│   │   └── page.tsx               # AI Study Coach Chat UI
+│   ├── profile/
+│   │   └── page.tsx               # Shahina's Profile & Analytics
+│   └── admin/
+│   │   └── page.tsx               # Admin Analytics Hub
+├── components/
+│   ├── ui/                        # shadcn/ui custom tailored variants
+│   │   ├── button.tsx
+│   │   ├── card.tsx
+│   │   ├── progress.tsx
+│   │   └── tabs.tsx
+│   ├── navigation.tsx             # Responsive Top & Sidebar Navigation
+│   └── momentum-chart.tsx         # Reusable charts for dashboard/admin
+├── data/
+│   └── mockData.ts                # 100 Students, Quizzes, Posts, and Achievements
+├── package.json
+└── README.md
