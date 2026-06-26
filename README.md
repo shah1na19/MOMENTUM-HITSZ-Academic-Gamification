@@ -1,4 +1,4 @@
-# Momentum ⚡ HITSZ Academic Gamification Platform
+# MOMENTUM - HITSZ Academic Gamification Platform
 
 Momentum is a high-performance, competition-ready gamified academic MVP designed specifically for the international student cohort at the **Harbin Institute of Technology, Shenzhen (HITSZ)**. The application tracks, models, and accelerates learning velocity using state-of-the-art UI structures, automated localized micro-quizzes, real-time metrics routing, and an interactive AI companion loop.
 
