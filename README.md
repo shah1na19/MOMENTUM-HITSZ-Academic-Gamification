@@ -16,5 +16,6 @@ Deploying and inspecting Momentum requires only standard Node environments. No d
 
 1. **Clone project structure & navigate inside repository:**
 ```bash
-git clone [https://github.com/your-username/momentum.git](https://github.com/your-username/momentum.git)
-cd momentum
+git clone [https://github.com/shah1na19/MOMENTUM-HITSZ-Academic-Gamification.git](https://github.com/shah1na19/MOMENTUM-HITSZ-Academic-Gamification.git)
+cd MOMENTUM-HITSZ-Academic-Gamification
+
