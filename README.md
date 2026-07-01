@@ -10,3 +10,11 @@ Momentum is a high-performance, competition-ready gamified academic MVP designed
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
 - **Data Hydration**: Integrated Mock Engine (Zero external network dependencies)
+
+## 📂 Installation & Local Standup
+Deploying and inspecting Momentum requires only standard Node environments. No database keys, secret layers, or auth overrides are needed.
+
+1. Clone project structure & navigate inside repository:
+`bash
+git clone [ https://github.com/shah1na19/MOMENTUM-HITSZ-Academic-Gamification.git ]
+cd momentum
